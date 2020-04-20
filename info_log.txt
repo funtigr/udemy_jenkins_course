@@ -6,3 +6,6 @@
 2020-04-13 17:28:48,599 - test_logging - INFO - This is log info
 2020-04-13 17:30:39,389 - test_logging - INFO - Information
 2020-04-13 17:30:39,389 - test_logging - WARNING - warning
+2020-04-20 17:41:56,699 - test_logging - INFO - Information
+2020-04-20 17:41:56,699 - test_logging - WARNING - warning
+2020-04-20 17:42:11,637 - test_logging - INFO - This is log info
