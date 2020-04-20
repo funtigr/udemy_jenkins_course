@@ -1,0 +1,6 @@
+from selenium.webdriver import Chrome
+driver = Chrome()
+driver.maximize_window()
+driver.get("https://www.thetestingworld.com/testings")
+# take a screenshot at runtime
+driver.get_screenshot_as_file("C:\\Users\\Артём\\Desktop\\webdriver_screenshot_test.png")
